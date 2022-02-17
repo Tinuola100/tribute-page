@@ -1,0 +1,45 @@
+body{
+    background-color: grey;
+    margin: 0px;
+    padding: 0px;}
+  nav{   
+background-color:rgb(61, 55, 55);
+padding: 0 5px;
+text-align: center;
+justify-content: space-between;
+height: 60px; padding-bottom: 10px;}  
+  li{   display: inline;  
+  }
+  ul{
+margin: 0 auto;
+display: inline-block;
+list-style: none;
+box-shadow: 2px 2px 12px rgb(59, 55, 55;}
+
+nav ul li a{
+
+    display: inline-block;
+color: white;
+
+    padding: 10px 10px; 
+    text-decoration: none;
+    border: 0px;
+}
+.article{
+  padding-left: 20px;
+  padding-right: 20px;
+
+  width: 800px;
+  margin: auto;
+  background-color: white;
+  
+}
+.container{
+text-align: justify;
+width: 800px;
+margin: auto;
+background-color: white;
+padding-left: 20px;
+padding-right: 20px;
+}
+    
