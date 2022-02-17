@@ -1,45 +1,49 @@
 body{
-    background-color: grey;
-    margin: 0px;
-    padding: 0px;}
-  nav{   
+  background-color: rgb(228, 213, 213);
+  margin: 0px;
+  padding: 0px;}
+nav{   
 background-color:rgb(61, 55, 55);
 padding: 0 5px;
 text-align: center;
 justify-content: space-between;
 height: 60px; padding-bottom: 10px;}  
-  li{   display: inline;  
-  }
-  ul{
+li{   display: inline;  
+}
+ul{
 margin: 0 auto;
 display: inline-block;
 list-style: none;
-box-shadow: 2px 2px 12px rgb(59, 55, 55;}
-
+box-shadow: 2px 2px 12px grey;
+}
 nav ul li a{
 
-    display: inline-block;
+  display: inline-block;
 color: white;
 
-    padding: 10px 10px; 
-    text-decoration: none;
-    border: 0px;
+  padding: 10px 10px; 
+  text-decoration: none;
+  border: 0px;
 }
 .article{
-  padding-left: 20px;
-  padding-right: 20px;
 
-  width: 800px;
-  margin: auto;
-  background-color: white;
-  
+width: 800px;
+background-color: white;
+padding-left: 20px;
+padding-right: 20px;
+margin: auto;
+text-align: center;
 }
 .container{
-text-align: justify;
+text-align:center;
 width: 800px;
 margin: auto;
 background-color: white;
 padding-left: 20px;
 padding-right: 20px;
 }
-    
+
+h5{
+color:rgb(49, 39, 39);
+}
+
